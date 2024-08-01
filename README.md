@@ -32,8 +32,6 @@
    python main.py
    ```
 
-   （请将 `script_name.py` 替换为你的脚本文件名）
-
 4. 脚本将提取字幕文本并保存到 `extracted_text.txt`，然后生成翻译后的 SRT 文件 `translated_1.srt`。
 
 ### 示例
